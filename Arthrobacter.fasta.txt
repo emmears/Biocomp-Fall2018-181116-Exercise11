@@ -1,0 +1,15 @@
+#                                                                                       --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name                         accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ----------               -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0P7HV08|A0A0P7HV08_9MICC -          transporter_combined.fasta_aligned -             0.0012   16.1   2.6     0.054   10.6   0.0   2.4   2   0   0   2   2   2   2 -
+tr|A0A0N8HXT0|A0A0N8HXT0_9MICC -          transporter_combined.fasta_aligned -              0.027   11.7   2.6     0.093    9.9   0.3   2.3   2   0   0   2   2   2   0 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      transporterprofile.hmm
+# Target file:     Arthrobacter.fasta
+# Option settings: hmmsearch --tblout Arthrobacter.fasta.txt transporterprofile.hmm Arthrobacter.fasta 
+# Current dir:     /afs/nd.edu/user18/emears/local/proteomes
+# Date:            Tue Nov 27 15:16:40 2018
+# [ok]

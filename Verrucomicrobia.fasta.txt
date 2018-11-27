@@ -1,0 +1,13 @@
+#                                                                             --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                         accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------               -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      transporterprofile.hmm
+# Target file:     Verrucomicrobia.fasta
+# Option settings: hmmsearch --tblout Verrucomicrobia.fasta.txt transporterprofile.hmm Verrucomicrobia.fasta 
+# Current dir:     /afs/nd.edu/user18/emears/local/proteomes
+# Date:            Tue Nov 27 15:16:41 2018
+# [ok]
